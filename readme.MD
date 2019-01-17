@@ -1,4 +1,4 @@
-# Versies en aanpassingen
+﻿# Versies en aanpassingen
 
 11-01-2019: Nieuwe versie CPT-tool (versie 1.2) toegevoegd.
 27-06-2018: nieuwe handleiding CPT en Nkt tool is toegevoegd. 
@@ -14,9 +14,9 @@ Een installer kan worden gedownload bij de Release CPT-Tool v. 1.2 (https://gith
 # Gebruik en functionaliteit
 
 De tool ondersteunt de gebruiker in:
-* schematiseren laagindeling (o.b.v. wrijvingsgetal, wateroverspanningsindex en Robertson classificatie) 
-* schematiseren waterspanningsverloop 
-* toekennen parameters aan grondlagen (Nkt, ?n, S, m) 
+* Schematiseren laagindeling (o.b.v. wrijvingsgetal, wateroverspanningsindex en Robertson classificatie) 
+* Schematiseren waterspanningsverloop 
+* Toekennen parameters aan grondlagen (Nkt, ?n, S, m) 
 * Berekenen ongedraineerde sterkte su (o.b.v. Nkt) 
 * Terugrekenen van OCR, grensspanning en POP 
 * Ondersteunen bij de berekening van statistiek (verwachtingswaarden, karakteristieke waarden en variatiecoëfficiënten voor de grensspanning). 
