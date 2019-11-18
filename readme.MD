@@ -1,8 +1,11 @@
 ﻿# Versies en aanpassingen
 
 18-11-2019: Nieuwe versie handleiding CPT en Nkt tool toegevoegd.
+
 11-01-2019: Nieuwe versie CPT-tool (versie 1.2) toegevoegd.
+
 27-06-2018: nieuwe handleiding CPT en Nkt tool is toegevoegd. 
+
 
 # Doel
 
@@ -38,4 +41,4 @@ Betreft versie 1.2, uit december 2018.
 
 # Contactpersoon
 [Iris van de Kerk](https://github.com/orgs/kkpdata/people/IvdK), (Iris.vande.kerk@rws.nl) [Rijkswaterstaat-WVL](https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/water-verkeer-en-leefomgeving/index.aspx)
-[Harm Rinkel](harm.rinkel@rws.nl) [Rijkswaterstaat-WVL](https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/water-verkeer-en-leefomgeving/index.aspx)
+[Ilze Plomp-Van der Sar](ilze.vander.sar@rws.nl) [Rijkswaterstaat-WVL](https://www.rijkswaterstaat.nl/over-ons/onze-organisatie/organisatiestructuur/water-verkeer-en-leefomgeving/index.aspx)
