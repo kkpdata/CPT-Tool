@@ -1,5 +1,6 @@
 ﻿# Versies en aanpassingen
 
+18-11-2019: Nieuwe versie handleiding CPT en Nkt tool toegevoegd.
 11-01-2019: Nieuwe versie CPT-tool (versie 1.2) toegevoegd.
 27-06-2018: nieuwe handleiding CPT en Nkt tool is toegevoegd. 
 
